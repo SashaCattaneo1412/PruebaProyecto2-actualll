@@ -1,0 +1,88 @@
+
+
+.flexbox {
+  margin: 0;
+  display: grid;
+  place-content: center;
+  gap: 10px;
+  border-radius: 20px;
+}
+
+ .title{
+ 
+  text-align: center;
+  color: white;
+  font-family: Lexend;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0em;
+  
+
+
+ }
+
+
+ .contenedorflotante{
+  width: 292px;
+  height: 55px;
+  border-radius: 15px;
+  
+ }
+
+  .contenedorflotante input[type="INPUT"] {
+    width: 290px;
+    height: 44px;
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    color: var(--negro);
+    gap: 40px;
+    font-family: 'Lexend';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+  }
+
+
+  .contenedorflotante input[type="password"] {
+    width: 290px;
+    height: 44pX;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    gap: 21px;
+    font-family: 'Lexend';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+.seguimiento
+{
+   color: white;
+    width: 393px;
+    height: 76px;
+    top: 641px;
+    left: 523px;
+    font-family: Lexend;
+    font-size: 17px;
+    font-weight: 500px;
+    line-height: 50px;
+    letter-spacing: 0em;
+    
+    
+}
+.boton
+{
+  color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  height: 100px;
+  
+}
